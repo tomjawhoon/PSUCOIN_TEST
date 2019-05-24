@@ -5,4 +5,4 @@
 3. เข้าไปใน ไฟล์ token-transfer-dapp
 4. ติดตั้ง npm i และ สั่ง npm start
 
-# ถ้าต้องการให้ Login และ tranfer ได้ ให้ สั่ง run ทั้ง 3 ไฟล์ #
+# ถ้าต้องการให้ Login และ Link ไป tranfer ได้ให้ สั่ง run ทั้ง 3 ไฟล์ #
